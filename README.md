@@ -22,7 +22,9 @@
 
 ![Schematic](./images//Schematic.png)
 
-![3D image](./images/PCB-3D-Top.png)
+<img src="./images/PCB-3D-Top.png" width="200px"/>
+<img src="./images/PCB-3D-T.png" width="500px"/>
+<img src="./images/PCB-3D-B.png" width="500px"/>
 
 
 ## 🚀 Getting Started
